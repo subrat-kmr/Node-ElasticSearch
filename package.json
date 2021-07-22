@@ -1,0 +1,24 @@
+{
+    "name": "node-elasticsearch",
+    "version": "1.0.0",
+    "description": "Filtering Data with ElasticSearch",
+    "main": "app.js",
+    "scripts": {
+        "test": "ng test",
+        "start": "nodemon server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/subrat-kmr/Node-ElasticSearch.git"
+    },
+    "author": "Subrat KMR <subratkmr0@gmail.com> (https://github.com/subrat-kmr)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/subrat-kmr/Node-ElasticSearch/issues"
+    },
+    "homepage": "https://github.com/subrat-kmr/Node-ElasticSearch#readme",
+    "dependencies": {
+        "elasticsearch": "^16.7.2",
+        "express": "^4.17.1"
+    }
+}
